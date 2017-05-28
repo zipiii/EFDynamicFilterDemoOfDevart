@@ -1,0 +1,4 @@
+在使用Devart连接Oracle时，EntityFramework.DynamicFilters只能使用1.4.9以下版本，如果使用1.4.10以上版本，会报错：Error:ORA-01036: illegal variable name/number
+
+
+
